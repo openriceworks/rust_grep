@@ -5,4 +5,4 @@ authors = ["openrice"]
 description = "grep made by rust "
 
 [dependencies]
-clap = "2.32.0"
+getopts = "0.2.18"
